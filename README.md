@@ -1,3 +1,3 @@
-peno kodi addons
-This method is obsolete. Please use the repository https://peno64.github.io/repository.peno64/
-See https://kodi.wiki/view/Add-on_manager
+<!DOCTYPE html>
+<a href="repository.peno64-1.5.zip">repository.peno64-1.5.zip</a>
+<a href="repository.peno64-1.5.zip">repository.jellyfin.kodi.zip</a>
